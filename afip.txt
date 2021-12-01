@@ -1,0 +1,102 @@
+PRIMERA PARTE
+
+Ingresar a AFIP
+Adherir servicio: Regímenes de facturacion y registracion a traves del 
+   Administrador de clave fiscal
+    - Adherir Servicio
+    - Afip
+    - Servicios Interactivos
+    - Regímenes de Facturación y Registración (REAR/RECE/RFI)
+    - CONFIRMAR, salir y volver a entrar al servicio.
+
+Servicio Regimenes de facturacion y registracion.
+Entrar al servicio
+Seleccionar empresa
+entrar en empadronamiento
+entrar en Empadronamiento REAR / RECE
+completar:
+es reorganicacion de sociedad si/no
+RUBRO 1 A:
+  tildar Titulo 1 (Duplicados de facturas, notas de debito, notas de credito o doc equivalentes)
+  tildar art. 8º
+RUBRO 1 B:
+  tildar inc d) del Art. 18
+RUBRO 1 C:
+  tildar RECE Factura Electrónica - Régimen obligatorio
+
+RUBRO 2:
+   completar datos:
+     calle: Palma
+     nro: 1150
+     piso: 
+     codigo postal: 1682
+     telefono: 48447661 / 5434-2194
+     provincia:bs as
+     localidad: villa bosh
+
+RUBRO 3:
+   ingresar mes y año de inicio
+
+RUBRO 4: equipamiento
+   Tildar Si
+
+aceptar todo e imprimir el acuse de recibo
+
+
+SIGUIENTE
+ ir a a/b/m puesto de venta
+ consultar que puestos de venta estan habilitados actualmente para ver cual ingreso ahora
+ volver
+ 
+ ir a a/b/m puesto de venta
+ alta
+ ingresar codigo siguiente
+ poner nombre fantasia: Fact. electronica ejc
+ sistemas de facturacion asociado: seleccionar RECE para aplicativo y web service
+ domicilio (que ya figura)
+ aceptar
+ confirmar
+ imprimir constancia
+
+SIGUIENTE
+hay que ADMINISTRAR CERTIFICADOS DIGITALES para lo cual hay que agregar el servicio
+adherir servicio 
+  AFIP
+  SERVICIOS INTERACTIVOS
+  ADMINISTRACION DE CERTIFICADOS DIGITALES
+  CONFIRMAR
+  IMPRIMIR
+
+ENTRAMOS al servicio:
+  agregr alias: Factura electronica
+  subir csr con boton examinar
+  agregar alias.
+  VER para visualizar el certificado 
+  descargar
+  y guardar
+
+  me envias el archivo que descargaste
+
+SEGUNDA PARTE
+
+Hay que adherir servicio de web service
+ para ello 
+adherir servicio
+web service
+factura electronica
+seleccionar buscar en representante
+en computador fiscal seleccionar factura electronica
+confirmar.
+confirmar.
+imprimir constancia
+
+
+
+
+
+
+ 
+
+
+
+

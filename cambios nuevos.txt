@@ -1,0 +1,22 @@
+movimiento y factfinal
+ -campo nroform de 13
+
+se agregaron las tablas afip (5)
+
+clientes:
+ -campo condiva varchar(2);
+
+CANCELACION DE FACTURA
+
+Posicionarse sobre factfinal
+- tomar: 
+      FACTURACION
+      - total de la factura
+      - codigo de cliente y buscar en clientes y obtener datos facturacion
+      - generar nota de credito
+      - grabar en factfinal la nota de credito.
+      STOCK
+      - cform y nroform y buscar en movimiento. Recorrer los registros.
+        generar nuevo documentoenc y documento (anulacion) INGRESO DE MERCADERIA.
+        Acualizar stock y generar movimiento de anulacion
+
