@@ -1,5 +1,6 @@
 # README #
-
+afip tutorial
+https://www.youtube.com/watch?v=np6zxGb75Jw
 This README would normally document whatever steps are necessary to get your application up and running.
 
 ### What is this repository for? ###

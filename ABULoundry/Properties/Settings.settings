@@ -1,0 +1,78 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Loundry.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Port" Type="System.String" Scope="User">
+      <Value Profile="(Default)">3306</Value>
+    </Setting>
+    <Setting Name="Host" Type="System.String" Scope="User">
+      <Value Profile="(Default)">localhost</Value>
+    </Setting>
+    <Setting Name="DirectorioConf" Type="System.String" Scope="User">
+      <Value Profile="(Default)">c:/sracsharp/ABULoundry/</Value>
+    </Setting>
+    <Setting Name="PathReport" Type="System.String" Scope="User">
+      <Value Profile="(Default)">c:/sracsharp/ABULoundry/ABULoundry/Reportes/</Value>
+    </Setting>
+    <Setting Name="Status" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Private</Value>
+    </Setting>
+    <Setting Name="Pass" Type="System.String" Scope="User">
+      <Value Profile="(Default)">xx</Value>
+    </Setting>
+    <Setting Name="URLWSAA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://wsaa.afip.gov.ar/ws/services/LoginCms</Value>
+    </Setting>
+    <Setting Name="URLWSW" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://servicios1.afip.gov.ar/wsfev1/service.asmx</Value>
+    </Setting>
+    <Setting Name="afipcertificado" Type="System.String" Scope="User">
+      <Value Profile="(Default)">c:/sracsharp/ABULoundry/key/certificado.pfx</Value>
+    </Setting>
+    <Setting Name="afippassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Osv</Value>
+    </Setting>
+    <Setting Name="afippadrona4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ws_sr_padron_a4</Value>
+    </Setting>
+    <Setting Name="afipmodoproduccion" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="afipptoventa" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">6</Value>
+    </Setting>
+    <Setting Name="afipcaefac" Type="System.String" Scope="User">
+      <Value Profile="(Default)">c:\sracsharp\ABULoundry\Tmp\Caefac</Value>
+    </Setting>
+    <Setting Name="afipfacttmp" Type="System.String" Scope="User">
+      <Value Profile="(Default)">c:\sracsharp\ABULoundry\Tmp\Duplicados\</Value>
+    </Setting>
+    <Setting Name="conf" Type="System.String" Scope="User">
+      <Value Profile="(Default)">conf.xml</Value>
+    </Setting>
+    <Setting Name="afipcaenc" Type="System.String" Scope="User">
+      <Value Profile="(Default)">c:\sracsharp\ABULoundry\Tmp\Caenc</Value>
+    </Setting>
+    <Setting Name="Backup" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ABULoundry</Value>
+    </Setting>
+    <Setting Name="FtpCarpeta" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\var\www\html\instala\ABULoundry\Reportes\</Value>
+    </Setting>
+    <Setting Name="FtpSubeDesde" Type="System.String" Scope="User">
+      <Value Profile="(Default)">c:\\sracsharp\\ABULoundry\\ReporteSube\\</Value>
+    </Setting>
+    <Setting Name="Usuario" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Version" Type="System.String" Scope="User">
+      <Value Profile="(Default)">v: 22.07.09.0</Value>
+    </Setting>
+    <Setting Name="Qr" Type="System.String" Scope="User">
+      <Value Profile="(Default)">c:\\sracsharp\\ABULoundry\\Tmp\\qr.png</Value>
+    </Setting>
+    <Setting Name="Gif" Type="System.String" Scope="User">
+      <Value Profile="(Default)">c:\sracsharp\ABULoundry\ABULoundry\giflavarropas.gif</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
